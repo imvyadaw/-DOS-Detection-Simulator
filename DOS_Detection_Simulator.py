@@ -14,3 +14,5 @@ if __name__ == "__main__":
         if traffic > threshold:
             print(f"[!] ALERT: High traffic detected! Possible DoS attack.")
         time.sleep(1)
+
+# -------IM_VYADAW-------------
